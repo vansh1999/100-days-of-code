@@ -1,3 +1,13 @@
+# 100 Days of Code
+
+# Progress log
+
+### day 1 [28 Dec 21]
+
+JavaScript
+
+### day 2
+
 # I've joined the #100DaysOfCode Challenge
 
 ## Contents
