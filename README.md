@@ -4,7 +4,9 @@
 
 ### day 1 [28 Dec 21]
 
-JavaScript
+JavaScript Udemy course - https://www.udemy.com/course/advanced-javascript-concepts/
+
+Learned - 
 
 ### day 2
 
