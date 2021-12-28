@@ -2,13 +2,7 @@
 
 # Progress log
 
-### day 1 [28 Dec 21]
-
-JavaScript Udemy course - https://www.udemy.com/course/advanced-javascript-concepts/
-
-Learned - 
-
-### day 2
+* [Log - click here to see my progress](log.md)
 
 # I've joined the #100DaysOfCode Challenge
 
